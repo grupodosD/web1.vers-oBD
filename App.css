@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding:0;
+  box-sizing: border-box;
+  text-shadow: white 1px;  
+}
+.Header{
+  width: 100%;
+  height: 100px;
+  background-color: aqua;
+}
+.App{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  min-width: 203vh;
+  background-image: url("assets/fundo.webp");
+  background-size: cover;
+  background-position: center;
+  background-color: #ffffffac;
+}
